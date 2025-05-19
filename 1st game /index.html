@@ -1,0 +1,35 @@
+<html>
+<html>
+    <head>
+        <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+        <meta content="utf-8" http-equiv="encoding">
+        <script src="code.js"></script>
+        <link rel="stylesheet" type="text/css" href="stylesheet.css">
+    </head>
+    <body>
+        <center>     
+           
+            <div id="board_container"></div>
+            <p> &nbsp;</p>
+            <button onclick="draw_triviallevelboard (trivialboard)">Level trivial</button>
+            <button onclick="draw_easylevelboard (easyboard)">Level easy</button> 
+            <button onclick="draw_intermidatelevelboard (intermidateboard)">Level intermediate</button>
+            <button onclick=" draw_hardlevelboard (hardboard)">Level hard</button>
+            <p> &nbsp;</p>
+            <div id="livescount">Lives: 3</div>
+            <div id="show_movecounter"></div>
+            <div id="timer">Timer : 00:00</div>
+            <p> &nbsp;</p>
+            <button onclick="stoptimer()">stop timer</button>
+            
+        </center>
+        <button onclick="reset()">Reset</button>
+        <button onclick="blackmode(selected_type)">black box </button>
+        <button onclick="whitemode(selected_type)">white box</button>
+     
+        
+
+
+   
+    </body>
+</html>
