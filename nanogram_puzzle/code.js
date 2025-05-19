@@ -543,6 +543,3 @@ function checkanswer(board) {
 // https://www.shecodes.io/athena/52336-how-to-create-a-countdown-timer-in-javascript
 //https://www.youtube.com/watch?v=wAj074hO_3g&ab_channel=JamesQQuick
 //https://www.shecodes.io/athena/52336-how-to-create-a-countdown-timer-in-javascript
-// ik heb ook AI gebruikt om te fouten in mijn code te vinden en ook AI gebruiken soms zeggen als het logica van mijn code is gelijke aan mijn psudo code die ik heb zelf geschreven en die vergelijken
-
-
