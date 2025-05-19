@@ -87,7 +87,7 @@ let trivial_opl = [
 ];
 
 window.onload = function () {
-    alert("Welcome! To start playing, please choose a difficulty level.");
+    alert("Welcome! To start playing, please choose a difficulty level & the color you'll gonna play with");
 }
 
 function draw_board(board, colheaders, rowheaders) {
